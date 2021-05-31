@@ -1,0 +1,1 @@
+# easyWays.github.io
