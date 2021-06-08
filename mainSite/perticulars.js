@@ -18,3 +18,7 @@ function openNav() {
     e1.classList.toggle('active');
     
   }
+  function hide(e){
+    var e1 = document.getElementById(e);
+    e1.classList.toggle('hide');
+  }
